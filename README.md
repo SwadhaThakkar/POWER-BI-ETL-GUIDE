@@ -102,7 +102,7 @@ It includes detailed notes, key concepts, and the final project where multiple d
 
 ---
 
-##  1️⃣7️⃣ Final Project – Transforming Multiple Data Sources
+## 🏆 1️⃣7️⃣ Final Project – Transforming Multiple Data Sources
 
 **Case Study**: Adventure Works sales data for 2022 & 2023, with detailed order information.
 
@@ -148,3 +148,8 @@ It includes detailed notes, key concepts, and the final project where multiple d
 - Learned to **profile, clean, and combine multiple data sources**
 - Applied **best practices for efficient data modeling**
 - Understood the role of **data governance and dataset endorsement**
+
+---
+
+📅 **Course Completion Date**: *August 2025*  
+✍️ **Author**: *[Your Name]*  
